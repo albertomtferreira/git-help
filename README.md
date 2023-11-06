@@ -23,3 +23,4 @@ Branching
         git branch smallupdate
     toogle between branches
         git checkout smallupdate
+        
