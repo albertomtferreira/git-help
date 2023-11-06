@@ -14,5 +14,3 @@ from terminal
         git push
     to pull the latest version on github
         git pull
-
-    END
