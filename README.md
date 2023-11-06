@@ -12,3 +12,5 @@ from terminal
         git commit -m "message"
     to submit the changes
         git push
+
+    END
